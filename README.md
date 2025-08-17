@@ -62,11 +62,17 @@ All others come built-in with scikit-learn.
 ## 📁 Repository Structure
 
 MachineLearning_Algorithms_MayankSaharan/
+
 |-- 1_logistic_regression.py
+
 |-- 2_decision_tree.py
+
 |-- 3_knn.py
+
 |-- 4_svm.py
+
 |-- 5_random_forest.py
+
 |-- README.md
 
 🚀 Usage
