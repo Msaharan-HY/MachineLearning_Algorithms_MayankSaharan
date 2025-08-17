@@ -73,27 +73,27 @@ MachineLearning_Algorithms_MayankSaharan/
 
 Run any of the scripts from the command line:
 
-python logistic_regression.py
-python decision_tree.py
-python knn.py
-python svm.py
-python random_forest.py
+- python logistic_regression.py
+- python decision_tree.py
+- python knn.py
+- python svm.py
+- python random_forest.py
 
 Each script will:
-Train the model
-Print accuracy score
-Print a classification report
-(Decision Tree also prints model rules)
+- Train the model
+- Print accuracy score
+- Print a classification report
+- (Decision Tree also prints model rules)
 
-📊 Results & Evaluation
+📊 Results & Evaluation:
 Sample results (may vary slightly due to randomness):
-Logistic Regression (Iris): ~97%
-Decision Tree (Titanic): ~80%
-KNN (Digits): ~98%
-SVM (Breast Cancer): ~96%
-Random Forest (Wine): ~99%
+- Logistic Regression (Iris): ~97%
+- Decision Tree (Titanic): ~80%
+- KNN (Digits): ~98%
+- SVM (Breast Cancer): ~96%
+- Random Forest (Wine): ~99%
 
 🔧 Known Issues & Future Work
-Titanic preprocessing: Currently uses .dropna() → could improve with better missing value handling.
-Hyperparameter tuning: Models use defaults; future versions could implement GridSearchCV or RandomizedSearchCV.
-Visualization: Adding confusion matrices, ROC curves, or feature importance plots would make outputs more interpretable.
+- Titanic preprocessing: Currently uses .dropna() → could improve with better missing value handling.
+- Hyperparameter tuning: Models use defaults; future versions could implement GridSearchCV or RandomizedSearchCV.
+- Visualization: Adding confusion matrices, ROC curves, or feature importance plots would make outputs more interpretable.
